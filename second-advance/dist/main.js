@@ -103,9 +103,9 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sty
   !*** ./src/style/index.css ***!
   \*****************************/
 /*! no static exports found */
-/***/ (function(module, exports) {
+/***/ (function(module, exports, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected token (1:2)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n> p {\\n|   color: blue\\n| }\");\n\n//# sourceURL=webpack:///./src/style/index.css?");
+eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=webpack:///./src/style/index.css?");
 
 /***/ })
 
