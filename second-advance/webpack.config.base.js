@@ -10,11 +10,6 @@ if(module && module.hot) {
   module.hot.accept()
 }
 module.exports = {
-  devServer: {
-    port: "3000",
-    compress: true,
-    hot: true
-  },
   entry: {
     index: './src/index.js',
     login: './src/login.js'
